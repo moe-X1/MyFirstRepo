@@ -1,2 +1,1 @@
-# MyFirstRepo
-this is for the ALX automatic check
+This is my first repository created as part of a GitHub learning task

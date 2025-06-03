@@ -1,1 +1,1 @@
-I've learned the fundamentals of Git and version control, covering repository creation, file commits, local setup, and the collaborative power of pull requests. 
+What I have learned from this course: I've learned the fundamentals of Git and version control, covering repository creation, file commits, local setup, and the collaborative power of pull requests. 
